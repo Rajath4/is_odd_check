@@ -1,13 +1,15 @@
 {
   "name": "is_odd_check",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Node package to check whether number is odd",
+  "homepage": "https://github.com/Rajath4/is_odd_check",
+  "author": "Rajath (https://github.com/Rajath4)",
   "main": "index.js",
+  "repository": "Rajath4/is_odd_check",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rajath",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "is-number": "^7.0.0"
   },
