@@ -5,7 +5,7 @@
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save is-odd
+$ npm install --save is_odd_check
 ```
 
 ## Usage
