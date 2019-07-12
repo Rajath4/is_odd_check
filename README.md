@@ -1,11 +1,5 @@
 # is_odd_check
 
-# is-odd [![NPM version](https://img.shields.io/npm/v/is-odd.svg?style=flat)](https://www.npmjs.com/package/is-odd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-odd.svg?style=flat)](https://npmjs.org/package/is-odd) [![NPM total downloads](https://img.shields.io/npm/dt/is-odd.svg?style=flat)](https://npmjs.org/package/is-odd) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/is-odd.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/is-odd)
-
-> Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
-
-Please consider following this project's author, [Jon Schlinkert](https://github.com/jonschlinkert), and consider starring the project to show your :heart: and support.
-
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
